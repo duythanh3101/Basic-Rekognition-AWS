@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacialAnalysisDemo", "Facia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnsafeContentLabels", "UnsafeContentLabels\UnsafeContentLabels.csproj", "{F1133ED6-240A-4A7B-99A0-2D044D6463B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectImageText", "DetectImageText\DetectImageText.csproj", "{1DF88EDA-9D04-4105-AB67-1057DBC4F351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishToVietNameseTranslator", "EnglishToVietNameseTranslator\EnglishToVietNameseTranslator.csproj", "{FBBA8B4F-A664-4143-AF2C-38FAB14B16AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F1133ED6-240A-4A7B-99A0-2D044D6463B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1133ED6-240A-4A7B-99A0-2D044D6463B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1133ED6-240A-4A7B-99A0-2D044D6463B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF88EDA-9D04-4105-AB67-1057DBC4F351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF88EDA-9D04-4105-AB67-1057DBC4F351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF88EDA-9D04-4105-AB67-1057DBC4F351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF88EDA-9D04-4105-AB67-1057DBC4F351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBA8B4F-A664-4143-AF2C-38FAB14B16AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBA8B4F-A664-4143-AF2C-38FAB14B16AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBA8B4F-A664-4143-AF2C-38FAB14B16AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBA8B4F-A664-4143-AF2C-38FAB14B16AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
