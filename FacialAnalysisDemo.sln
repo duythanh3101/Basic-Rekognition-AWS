@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectImageText", "DetectIm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishToVietNameseTranslator", "EnglishToVietNameseTranslator\EnglishToVietNameseTranslator.csproj", "{FBBA8B4F-A664-4143-AF2C-38FAB14B16AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToVoiceConverter", "TextToVoiceConverter\TextToVoiceConverter.csproj", "{BD2BA669-B74C-4147-82A1-6AE3FB178DFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FBBA8B4F-A664-4143-AF2C-38FAB14B16AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBBA8B4F-A664-4143-AF2C-38FAB14B16AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBBA8B4F-A664-4143-AF2C-38FAB14B16AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2BA669-B74C-4147-82A1-6AE3FB178DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2BA669-B74C-4147-82A1-6AE3FB178DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2BA669-B74C-4147-82A1-6AE3FB178DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2BA669-B74C-4147-82A1-6AE3FB178DFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
