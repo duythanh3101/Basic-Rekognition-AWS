@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishToVietNameseTranslat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToVoiceConverter", "TextToVoiceConverter\TextToVoiceConverter.csproj", "{BD2BA669-B74C-4147-82A1-6AE3FB178DFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPT_AI_TextToSpeech", "FPT_AI_TextToSpeech\FPT_AI_TextToSpeech.csproj", "{082E61D2-6067-4658-9F2E-5FDC62779388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPT_AI_SpeechToText", "FPT_AI_SpeechToText\FPT_AI_SpeechToText.csproj", "{D8F8A6DF-6612-4114-B325-55C0D5EB6542}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{BD2BA669-B74C-4147-82A1-6AE3FB178DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD2BA669-B74C-4147-82A1-6AE3FB178DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD2BA669-B74C-4147-82A1-6AE3FB178DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{082E61D2-6067-4658-9F2E-5FDC62779388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082E61D2-6067-4658-9F2E-5FDC62779388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082E61D2-6067-4658-9F2E-5FDC62779388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082E61D2-6067-4658-9F2E-5FDC62779388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F8A6DF-6612-4114-B325-55C0D5EB6542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F8A6DF-6612-4114-B325-55C0D5EB6542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F8A6DF-6612-4114-B325-55C0D5EB6542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F8A6DF-6612-4114-B325-55C0D5EB6542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

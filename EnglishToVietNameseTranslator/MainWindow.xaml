@@ -29,13 +29,13 @@
             <StackPanel Orientation="Vertical" Grid.Column="0" Grid.Row="0">
                 <Label FontWeight="Bold" Margin="0 20 0 0">English</Label>
 
-                <TextBox Width="350" Height="100" x:Name="txtSoure"></TextBox>
+                <TextBox Width="350" Height="100" x:Name="txtSoure" TextWrapping="Wrap"></TextBox>
             </StackPanel>
             
             <StackPanel Orientation="Vertical" Grid.Column="2" Grid.Row="0">
                 <Label FontWeight="Bold" Margin="0 20 0 0">English</Label>
 
-                <TextBox Width="350" Height="100" x:Name="txtInfo"></TextBox>
+                <TextBox Width="350" Height="100" x:Name="txtInfo" TextWrapping="Wrap"></TextBox>
             </StackPanel>
 
       
